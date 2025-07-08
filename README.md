@@ -1,56 +1,60 @@
-👋 Hey, I'm KVP Meghana
+# 👋 Hey, I'm KVP Meghana
 
 🎓 BTech Student – CSE (Cyber Security) @ IARE, Hyderabad  
-🔐 Curious learner exploring cybersecurity, ethical AI, and coding  
-💬 Passionate about digital safety and creating a secure future
+🔐 Curious learner exploring cybersecurity, ethical AI, and Java programming  
+💬 Passionate about making the digital world safer, one step at a time
 
 ---
 
-🌱 Currently Learning
+## 🌱 What I'm Currently Learning
 
-- 🧩 **Data Structures & Algorithms in Java** – via GeeksforGeeks
-- 🛡️ **Cyber Security Fundamentals** – Threat modeling, IAM, risk assessment
-- 📚 **Security Frameworks** – GDPR, NIST compliance basics
-- 🧪 **Hands-on Tools** – Git, Wireshark, Linux CLI (Beginner level)
-
----
-
-🚀 Projects
-
-🔐 [Airen – AI-Driven IoT Security Framework](https://github.com/MeghanaKadiyala/Airen-IoT-Security)
-AI-based IoT threat detection with GDPR/NIST compliance scoring  
-Built using: Python, Streamlit, Scikit-learn
-
-🧠 [DSA-Java-Practice](https://github.com/MeghanaKadiyala/DSA-Java-Practice)
-Solving DSA problems by topic (Arrays, Strings, Recursion) using Java  
-Learning path: [GeeksforGeeks DSA Course](https://www.geeksforgeeks.org/data-structures/)
+- 🧩 **Data Structures & Algorithms in Java** – via GeeksforGeeks  
+- 🛡️ **Cybersecurity Fundamentals** – IAM, Threat Modeling, Risk Assessment  
+- 🧠 **Security Frameworks** – GDPR & NIST compliance basics  
+- 💻 **Technical Tools** – Git, Wireshark, Linux CLI (Beginner)
 
 ---
 
-🔧 Skills & Tools
+## 🚀 Projects (In Progress)
+
+### 🔐 Airen – AI-Driven IoT Security Framework  
+📌 A beginner-level AI-based prototype for detecting IoT threats and simulating GDPR/NIST compliance.  
+💡 Tools: Python, Streamlit, Scikit-learn  
+🔗 Link: *(Coming soon)*
+
+### 🧠 DSA-Java-Practice  
+📌 A structured repository to practice Java-based DSA problems  
+🧩 Topics: Arrays, Strings, Recursion, Linked Lists  
+🧠 Learning from: [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)  
+🔗 Link: *(Coming soon)*
+
+---
+
+## 🔧 Skills & Tools
 
 Languages: Java, Python
-Cybersecurity: Threat Modeling, IAM (Basics), GDPR/NIST Compliance
+Cybersecurity: IAM (Basics), Threat Modelling, GDPR/NIST
 
 ---
 
-📜 Certifications
+## 📜 Certifications
 
-- Cisco – Introduction to Cybersecurity  
-- OPSWAT – Critical Infrastructure Protection  
-- Mastercard Forage – Cybersecurity Analyst Simulation  
-- Infosys Springboard – ITIL Awareness  
-- GeeksforGeeks – Python Programming Basics  
-- Google Developer Groups – First Steps with React *(Exposure only)*
+- ✅ Cisco – Introduction to Cybersecurity  
+- ✅ OPSWAT – Critical Infrastructure Protection  
+- ✅ Mastercard Forage – Cybersecurity Analyst  
+- ✅ GeeksforGeeks – Python Programming Basics  
+- ✅ TCS Forage – Identity and Access Management (IAM)
+- ✅ Infosys Springboard – ITIL Awareness  
+- ✅ GDG – First Steps with React *(Exploratory)*
 
 ---
 
-📫 Let's Connect
+## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/meghana-kadiyala-66b9602912)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/meghana-kadiyala-66b9602912)  
 - 📩 Email: meghanakadiyala1402@gmail.com
 
 ---
 
-> ⚡ I'm not a specialist (yet), but I'm learning one concept at a time, one project at a time.
+> ⚡ Not a specialist yet, but growing one commit at a time.
 
